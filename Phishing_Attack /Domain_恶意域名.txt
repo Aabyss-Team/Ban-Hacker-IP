@@ -1,1 +1,2 @@
 *.djjsooawurad2.bond
+*.sogou.org
