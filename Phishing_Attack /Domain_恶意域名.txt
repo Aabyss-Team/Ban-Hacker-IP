@@ -1,2 +1,3 @@
 *.djjsooawurad2.bond
 *.sogou.org
+*.maillpl.top
