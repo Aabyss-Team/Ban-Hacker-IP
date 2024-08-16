@@ -24,3 +24,10 @@ d1mzod200amul5.cloudfront.net
 bc-12003215.myfancydomain.ch
 alifeiyun.oss-cn-beijing.aliyuncs.com
 2gwxrah28rj0z.cfc-execute.bj.baidubce.com
+app-oa-jcleneivmn.cn-shanghai.fcapp.run
+temp.filezhcn.com
+mimst.cc
+as.dbzjk.top
+admin.govcenter.co
+sb07.sb.pt.y-sec.org
+bc.pingus.ca
